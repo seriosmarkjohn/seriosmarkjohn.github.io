@@ -1,0 +1,27 @@
+h1 {
+    color:white;
+}
+
+body {background-image: url(background.jpg); color:rgb(209, 245, 253)}
+
+h4 {
+    font-size: 1.2em
+}
+
+
+
+#left-col {background-color:#00446c; 
+    position: fixed; width:15em; 
+    height:100vh; margin-left:-385
+}
+#right-col{margin-left:-120}
+
+ul {list-style: none;color: white}
+
+#profile-pic {border-radius: 75%
+}
+
+body h2 {color: #ffe8d5};
+#seriosmark {color: white}
+#topper {background-color: #00446c; margin-left:-40; margin-right: -515; margin-bottom: -20}
+
